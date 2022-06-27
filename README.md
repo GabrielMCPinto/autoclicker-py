@@ -1,7 +1,7 @@
-# Autoclicker Python
+# Autoclicker Python 🐍 🤓
 Testado apenas em Windows 10.  
 Feito fora de aula.  
-Feito em parceria com @Diegovsky
+Feito em parceria com [Diegovsky](https://github.com/Diegovsky)
 
 ## Como usar?
 Clone o repositório e clique duas vezes no executável, após isso selecione a janela que deseja executar o programa, será disponibilizado uma lista de todas as janelas abertas.
@@ -17,3 +17,10 @@ Para desativar o programa abra a janela do mesmo, e aperte as teclas com a combi
 
 ## Em casos específicos
 Se na hora da seleção de janela a entrada for invalida, você receberá como resposta um "Ok" e o programa fechará em 3 segundos após a mensagem.
+
+<details>
+  
+###### Octocat breaking the bad :shipit: 
+![Imagem](https://w7.pngwing.com/pngs/548/513/png-transparent-github-computer-software-fork-javascript-c-github-cartoon-fictional-character-glasses.png)
+  
+</details>
