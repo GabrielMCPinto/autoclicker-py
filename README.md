@@ -1,5 +1,7 @@
 # Autoclicker Python
+Testado apenas em Windows 10.  
 Feito fora de aula.
+
 ## Como usar?
 Clone o repositório e clique duas vezes no executável, após isso selecione a janela que deseja executar o programa, será disponibilizado uma lista de todas as janelas abertas.
 
