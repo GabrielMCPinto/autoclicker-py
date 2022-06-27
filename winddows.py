@@ -1,4 +1,3 @@
-from multiprocessing.sharedctypes import Value
 import time
 import win32gui
 
